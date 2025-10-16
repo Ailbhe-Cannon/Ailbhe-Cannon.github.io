@@ -4,8 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Current & Upcoming
-- **Course title** — Institution, Term Year (Role)
 
 ## Past Teaching
-- **Course (code)** — Institution, Term (Role)
+- **POLITICS AND IRISH SOCIETY A & B (POU11021/POU11022)** — Department of Political Science, Trinity College Dublin
+- Module lecturer
+- Lectured twice weekly to approximately 180 undergraduate students
+- Coordinated a team of 4 postgraduate teaching assistants
+- Received a weighted average of 4.4/5
+- **Introduction to Political Science B (POU11012)** — Trinity College Dublin, Hilary Term (Module lecturer)
+- Primary module lecturer
+- Lectured twice weekly to approximately 380 undergraduate students
+- Coordinated a team of 8 postgraduate teaching assistants
+- Received a weighted average of 4.43/5
