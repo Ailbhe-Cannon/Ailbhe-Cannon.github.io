@@ -26,8 +26,8 @@ Ailbhe Cannon<br>
 
 ## Working Papers
 
-**The Road to Repression: Silencing Descent Across Russia's Regions**<br>  
+**The Road to Repression: Silencing Dissent Across Russia's Regions**<br>  
 Ailbhe Cannon & Ódran B. Farrell<br>
-*Working Paper*<br>
+*Working Paper*
 
 
