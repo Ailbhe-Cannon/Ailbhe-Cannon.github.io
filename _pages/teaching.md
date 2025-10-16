@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Past Teaching
-- **POLITICS AND IRISH SOCIETY A & B (POU11021/POU11022)** — Department of Political Science, Trinity College Dublin
+- **Politics & Irish Society A & B (POU11021/POU11022)** — Department of Political Science, Trinity College Dublin
 - Module lecturer
 - Lectured twice weekly to approximately 180 undergraduate students
 - Coordinated a team of 4 postgraduate teaching assistants
