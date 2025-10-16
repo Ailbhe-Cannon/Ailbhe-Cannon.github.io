@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 Under Construction
+======
+Updat coming soon!
