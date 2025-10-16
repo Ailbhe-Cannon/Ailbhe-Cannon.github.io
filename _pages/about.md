@@ -10,7 +10,7 @@ redirect_from:
 ## About
 Hello and welcome to my website!
 
-My name is Ailbhe (pronounced al-va) and I am a PhD student in the [Department of International Relations](https://www.lse.ac.uk/international-relations) at the London School of Economics and Political Science. My doctoral research explores militarism and gender in the context of Russia's ongoing war in Ukraine. 
+My name is Ailbhe (pronounced al-va) and I am a PhD student in the [Department of International Relations](https://www.lse.ac.uk/international-relations) at the **London School of Economics and Political Science.** My doctoral research explores militarism and gender in the context of Russia's ongoing war in Ukraine. 
 
 ## Research interests
 - Gender and security 
@@ -18,4 +18,4 @@ My name is Ailbhe (pronounced al-va) and I am a PhD student in the [Department o
 - Eastern Europe, South Caucasus, and Central Asia 
 - Qualitative and mixed methods
 
-If you are interested in my work or would like to collaborate, **feel free to get in touch**.
+If you are interested in my work or would like to collaborate, feel free to get in touch!
