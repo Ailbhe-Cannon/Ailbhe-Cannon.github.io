@@ -14,7 +14,6 @@ My name is Ailbhe (pronounced al-va) and I am a PhD student in the Department of
 
 ## Research interests
 - Gender and security 
-- Peace and conflict studies
 - Nationalism and society  
 - Eastern Europe, South Caucasus, and Central Asia 
 - Qualitative and mixed methods
