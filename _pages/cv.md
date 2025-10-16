@@ -11,4 +11,4 @@ redirect_from:
 
 Under Construction
 ======
-Updat coming soon!
+Update coming soon!
